@@ -1,0 +1,26 @@
+body{
+    background-color: #000;
+}
+
+.jumbotron{
+    color: #ffffff;
+    background-color: #1f1f1f;
+}
+
+.altcolor{
+    background-color:#000;
+    border-radius:15px;
+    margin-top:20px;
+    padding:20px;
+}
+.form-control {
+    display: inline-block;
+}
+
+.invis {
+    display: none;
+}
+
+h1, h2, h3, h4, p{
+    color: #ffffff!important;
+}
